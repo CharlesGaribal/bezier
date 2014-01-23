@@ -15,11 +15,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-    point2f.cpp \
-    bezier.cpp
+    bezier.cpp \
+    controlitem.cpp
 
 HEADERS  += \
-    point2f.h \
-    bezier.h
+    bezier.h \
+    controlitem.h
 
 FORMS    +=
