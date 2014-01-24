@@ -15,11 +15,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-    bezier.cpp \
-    controlitem.cpp
+    controlitem.cpp \
+    graphicsbezieritem.cpp
 
 HEADERS  += \
-    bezier.h \
-    controlitem.h
+    controlitem.h \
+    graphicsbezieritem.h
 
 FORMS    +=
